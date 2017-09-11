@@ -12,4 +12,4 @@ Run the following in the command line:
 Open MATLAB and navigate to the SC2ATmd/SC2ATmdV3_source folder within MATLAB.
 Type "SC2ATmd" on MATLAB's command line to run the program.
 
-_Note: This program has not bee updated since 2012.  The interface and functions may not work correctly with newer MATLAB versions._
+_Note: This program has not been updated since 2012.  The interface and functions may not work correctly with newer MATLAB versions._
