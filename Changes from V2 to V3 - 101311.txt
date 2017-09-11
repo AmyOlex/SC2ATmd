@@ -1,0 +1,12 @@
+Proposed Changes I'm working on:
+
+ - Consensus clustering no longer has the requirement that the data have the same number of columns.  Rows and IDs must match, but there is no reason you have to have the same number of columns. - DONE!!!
+
+ - File directory 'sticks' when you are in the same session so you don't have to navigate back to your same folder anymore. - DONE!!!
+
+ - Add Red-White-Blue color scheme for heatmaps was added - DONE!!!
+
+ - Add option to set how many times a gene has to consensus cluster to be included (i.e. 100% is default, or 90%, 80% ect). DONE!!!
+ - Add more clustering algorithm options - Complicated
+ - Add more distance metric options DONE!!!
+
